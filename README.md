@@ -1,5 +1,5 @@
 ## GITHUB statistics
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: column;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=wildergd&theme=default&show_icons=true&hide_border=true&count_private=false" alt="" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wildergd&theme=default&hide_border=true" alt="" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildergd&theme=default&show_icons=true&hide_border=true&layout=compact" alt="" />  
