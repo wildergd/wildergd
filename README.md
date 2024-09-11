@@ -6,4 +6,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wildergd&theme=default&show_icons=true&hide_border=true&layout=compact" alt="" />  
 
 ## Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,styledcomponents,react,redux,nextjs,angular,express,nodejs,bash,c,cpp,php,py,js,ts,r,cypress,docker,github,linux,vscode,mongodb,mysql,postgres,gcp,firebase,flask,sklearn,supabase,symfony,vite,webpack,gatsby,yarn,apple)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,materialui,tailwind,styledcomponents,react,redux,nextjs,angular,express,nodejs,bash,c,cpp,php,py,js,ts,r,jest,cypress,docker,github,linux,vscode,mongodb,mysql,postgres,gcp,firebase,flask,sklearn,supabase,symfony,vite,webpack,gatsby,yarn,apple)](https://skillicons.dev)
